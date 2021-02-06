@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/vadimbirkos/Desktop/Arduino.app/Contents/Java/tools/**",
+                "/Users/vadimbirkos/Documents/Arduino/libraries/**",
+                "/Users/vadimbirkos/Desktop/Arduino.app/Contents/Java/libraries/**",
+                "/Users/vadimbirkos/Desktop/Arduino.app/Contents/Java/hardware/tools/**",
+                "/Users/vadimbirkos/Desktop/Arduino.app/Contents/Java/hardware/arduino/avr/**"
+            ],
+            "forcedInclude": [
+                "/Users/vadimbirkos/Desktop/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
